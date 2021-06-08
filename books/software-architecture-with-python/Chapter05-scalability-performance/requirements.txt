@@ -13,7 +13,7 @@ kombu==4.0.2
 multidict==2.1.4
 numpy==1.12.1
 olefile==0.44
-Pillow==6.2.0
+Pillow==8.2.0
 pkg-resources==0.0.0
 pycares==2.1.1
 pymp-pypi==0.4.0
