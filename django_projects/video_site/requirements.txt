@@ -1,7 +1,7 @@
 asgiref==3.2.3
 backcall==0.1.0
 decorator==4.4.1
-Django==3.0.7
+Django==3.1.12
 ipython==7.10.2
 ipython-genutils==0.2.0
 jedi==0.15.2
